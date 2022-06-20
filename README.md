@@ -1,6 +1,6 @@
-[![](https://poggit.pmmp.io/shield.state/Logs_Discord_webhook)](https://poggit.pmmp.io/p/Logs_Discord_webhook)
+[![](https://poggit.pmmp.io/shield.state/LogsDiscordWebhook)](https://poggit.pmmp.io/p/LogsDiscordWebhook)
 
-<a href="https://poggit.pmmp.io/p/Logs_Discord_webhook"><img src="https://poggit.pmmp.io/shield.state/Logs_Discord_webhook"></a>
+<a href="https://poggit.pmmp.io/p/LogsDiscordWebhook"><img src="https://poggit.pmmp.io/shield.state/LogsDiscordWebhook"></a>
 
 # Logs-Discord-PM4 #
 
