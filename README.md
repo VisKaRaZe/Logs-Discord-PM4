@@ -14,3 +14,5 @@ Exclusives:
 - To optimise
 
 **This plugin is ideal for monitoring your server from your Discord client!**
+
+https://discord.gg/W2bX6CcbPW
