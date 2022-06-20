@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Zelurium12121/Logs-Discord-PM4
+build-by-default: true
+branches:
+- main
+projects:
+  Logs-Discord-PM4:
+    path: ""
+...
