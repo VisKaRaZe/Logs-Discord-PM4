@@ -1,0 +1,5 @@
+name: Logs Plugin
+main: viskaraze\logsplugin\Main
+version: 1.0
+api: 4.0.0
+author: VisKa_RaZe

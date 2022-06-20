@@ -1,0 +1,30 @@
+### Dev by VisKa_RaZe ###
+
+#Logs console
+webhookConsole: ""
+title-embed-Console: "- Serveur -"
+
+#Logs join
+webhookJoin: ""
+title-embed-Join: "- Join -"
+
+#Logs Commands
+webhookCommands: ""
+title-embed-Commands: "- New command -"
+
+#Logs Quit
+webhookQuit: ""
+title-embed-Quit: "- Quit -"
+
+#Logs Chat
+webhookChat: ""
+title-embed-Chat: "- Message -"
+
+#Logs Kills
+webhookKills: ""
+title-embed-Kills: "- Kills -"
+
+#Logs Deaths
+webhookDeaths: ""
+title-embed-Deaths: "- Deaths -"
+
